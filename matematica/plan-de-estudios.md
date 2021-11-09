@@ -12,13 +12,11 @@ description: '2021'
    2. Definiciones por comprensión.
    3. Intervalos.
    4. Operaciones con conjuntos.
-3. Ecuaciones lineales.
-4. Inecuaciones lineales.
-5. Funciones.
+3. Ecuaciones e inecuaciones lineales.
+4. Funciones.
    1. Definiciones.
    2. Funciones lineales.
-6. Sistemas de ecuaciones (lineales).
-7. Sistemas de inecuaciones (lineales).
-8. Problemas integradores.
+5. Sistemas de ecuaciones e inecuaciones (lineales).
+6. Problemas integradores.
    1. Programación lineal.
    2. Oferta y demanda.
