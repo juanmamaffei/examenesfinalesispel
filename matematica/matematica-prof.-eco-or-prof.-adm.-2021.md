@@ -2,7 +2,9 @@
 description: '2021'
 ---
 
-# Plan de estudios
+# Matemática (Prof. Eco | Prof. Adm. - 2021)
+
+## Plan de estudios 2021
 
 1. Números reales.
    1. Propiedades.
@@ -20,3 +22,7 @@ description: '2021'
 6. Problemas integradores.
    1. Programación lineal.
    2. Oferta y demanda.
+
+{% content-ref url="../contenidos/" %}
+[contenidos](../contenidos/)
+{% endcontent-ref %}

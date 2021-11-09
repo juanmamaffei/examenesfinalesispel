@@ -4,7 +4,7 @@
 
 ## Matemática
 
-* [Plan de estudios](matematica/plan-de-estudios.md)
+* [Matemática (Prof. Eco | Prof. Adm. - 2021)](matematica/matematica-prof.-eco-or-prof.-adm.-2021.md)
 
 ***
 

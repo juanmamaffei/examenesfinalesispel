@@ -13,3 +13,22 @@ description: >-
 {% content-ref url="2.-conjuntos.md" %}
 [2.-conjuntos.md](2.-conjuntos.md)
 {% endcontent-ref %}
+
+{% content-ref url="x-ejercicios-resueltos.md" %}
+[x-ejercicios-resueltos.md](x-ejercicios-resueltos.md)
+{% endcontent-ref %}
+
+{% content-ref url="3.-ecuaciones-e-inecuaciones-lineales.md" %}
+[3.-ecuaciones-e-inecuaciones-lineales.md](3.-ecuaciones-e-inecuaciones-lineales.md)
+{% endcontent-ref %}
+
+{% content-ref url="4.-funciones.md" %}
+[4.-funciones.md](4.-funciones.md)
+{% endcontent-ref %}
+
+{% content-ref url="4.2-funciones-lineales.md" %}
+[4.2-funciones-lineales.md](4.2-funciones-lineales.md)
+{% endcontent-ref %}
+
+
+
