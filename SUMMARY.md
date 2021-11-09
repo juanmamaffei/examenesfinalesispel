@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Preparando exámenes finales](README.md)
-
 ## Matemática
 
-* [Matemática (Prof. Eco | Prof. Adm. - 2021)](matematica/plan-de-estudios.md)
+* [Matemática (Prof. Eco | Prof. Adm. - 2021)](README.md)
 * [Plan de estudios 2021](matematica/plan-de-estudios-2021.md)
 
 ***
