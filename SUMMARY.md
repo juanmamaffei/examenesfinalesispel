@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Léame](README.md)
+* [Preparando exámenes finales](README.md)
 
 ## Matemática
 
-* [Matemática (Prof. Eco | Prof. Adm. - 2021)](matematica/matematica-prof.-eco-or-prof.-adm.-2021.md)
+* [Matemática (Prof. Eco | Prof. Adm. - 2021)](matematica/plan-de-estudios.md)
+* [Plan de estudios 2021](matematica/plan-de-estudios-2021.md)
 
 ***
 
@@ -15,3 +16,4 @@
   * [3. Ecuaciones e inecuaciones lineales](contenidos/3.-ecuaciones-e-inecuaciones-lineales.md)
   * [4. Funciones](contenidos/4.-funciones.md)
   * [4.2 Funciones lineales](contenidos/4.2-funciones-lineales.md)
+* [Modelos de exámenes finales](modelos-de-examenes-finales.md)

@@ -1,5 +1,7 @@
-# Léame
+# Preparando exámenes finales
 
-{% content-ref url="matematica/matematica-prof.-eco-or-prof.-adm.-2021.md" %}
-[matematica-prof.-eco-or-prof.-adm.-2021.md](matematica/matematica-prof.-eco-or-prof.-adm.-2021.md)
+En este documento, encontrarás los contenidos dictados en 2021, ejercicios y modelos de exámenes finales. Elegí tu materia:
+
+{% content-ref url="matematica/plan-de-estudios.md" %}
+[plan-de-estudios.md](matematica/plan-de-estudios.md)
 {% endcontent-ref %}
