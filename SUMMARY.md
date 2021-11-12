@@ -14,4 +14,6 @@
   * [3. Ecuaciones e inecuaciones lineales](contenidos/3.-ecuaciones-e-inecuaciones-lineales.md)
   * [4. Funciones](contenidos/4.-funciones.md)
   * [4.2 Funciones lineales](contenidos/4.2-funciones-lineales.md)
+  * [6.1 Programación lineal](contenidos/6.1-programacion-lineal.md)
+  * [6.2 Oferta y demanda](contenidos/6.2-oferta-y-demanda.md)
 * [Modelos de exámenes finales](modelos-de-examenes-finales.md)
