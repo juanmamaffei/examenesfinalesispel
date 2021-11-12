@@ -15,6 +15,6 @@ coverY: 0
 [contenidos](contenidos/)
 {% endcontent-ref %}
 
-{% content-ref url="modelos-de-examenes-finales/" %}
-[modelos-de-examenes-finales](modelos-de-examenes-finales/)
+{% content-ref url="modelos-de-examenes-finales.md" %}
+[modelos-de-examenes-finales.md](modelos-de-examenes-finales.md)
 {% endcontent-ref %}

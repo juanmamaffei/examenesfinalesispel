@@ -16,7 +16,7 @@
   * [4.2 Funciones lineales](contenidos/4.2-funciones-lineales.md)
   * [6.1 Programación lineal](contenidos/6.1-programacion-lineal.md)
   * [6.2 Oferta y demanda](contenidos/6.2-oferta-y-demanda.md)
-* [Modelos de exámenes finales](modelos-de-examenes-finales/README.md)
+* [Modelos de exámenes finales](modelos-de-examenes-finales.md)
   * [Examen 1](modelos-de-examenes-finales/examen-1.md)
   * [Examen 2](modelos-de-examenes-finales/examen-2.md)
   * [Examen 3](modelos-de-examenes-finales/examen-3.md)
